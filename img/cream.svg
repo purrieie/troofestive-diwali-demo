@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+<linearGradient id="cbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ECE4F2"/><stop offset="1" stop-color="#D7C9E3"/></linearGradient>
+<radialGradient id="csh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3a2410" stop-opacity=".28"/><stop offset="1" stop-color="#3a2410" stop-opacity="0"/></radialGradient>
+<linearGradient id="chi" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="600" height="600" fill="url(#cbg)"/>
+<defs><linearGradient id="c1b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#EFEAE6"/><stop offset="0.45" stop-color="#FFFFFF"/><stop offset="1" stop-color="#DCD5CE"/></linearGradient><linearGradient id="c1l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8892C"/><stop offset="0.5" stop-color="#F3D58A"/><stop offset="1" stop-color="#A47A22"/></linearGradient></defs>
+<ellipse cx="300" cy="500" rx="151.8" ry="20" fill="url(#c1sh)"/>
+<rect x="185" y="350" width="230" height="150" rx="22" fill="url(#c1b)"/>
+<rect x="179" y="292" width="242" height="64" rx="14" fill="url(#c1l)"/>
+<rect x="179" y="344" width="242" height="8" fill="#000" opacity=".08"/>
+<rect x="215" y="372" width="170" height="104" rx="6" fill="#F8EEE2"/>
+<text x="300" y="415.68" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#3A2A1C">saanjh</text>
+<text x="300" y="440.64" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.5" fill="#8A6A4C">NIGHT REPAIR</text>
+<text x="300" y="457.28" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.5" fill="#8A6A4C">CREAM</text>
+<rect x="199" y="362" width="12" height="126" rx="6" fill="#fff" opacity=".22"/>
+</svg>

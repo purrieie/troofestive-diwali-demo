@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+<linearGradient id="sbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6E1E1"/><stop offset="1" stop-color="#EBC6C6"/></linearGradient>
+<radialGradient id="ssh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3a2410" stop-opacity=".28"/><stop offset="1" stop-color="#3a2410" stop-opacity="0"/></radialGradient>
+<linearGradient id="shi" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="600" height="600" fill="url(#sbg)"/>
+<defs><linearGradient id="s1b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E9D7D2"/><stop offset="0.4" stop-color="#FBF2EF"/><stop offset="1" stop-color="#D8C0BA"/></linearGradient><linearGradient id="s1p" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C9A24B"/><stop offset="0.5" stop-color="#F2DC9C"/><stop offset="1" stop-color="#9C7A2E"/></linearGradient></defs>
+<ellipse cx="300" cy="505" rx="112" ry="20" fill="url(#s1sh)"/>
+<rect x="230" y="255" width="140" height="250" rx="34" fill="url(#s1b)"/>
+<rect x="274" y="221" width="52" height="38" rx="6" fill="url(#s1p)"/>
+<rect x="291" y="181" width="18" height="42" fill="url(#s1p)"/>
+<path d="M270 163 h78 a8 8 0 0 1 0 16 h-60 v8 h-18 z" fill="url(#s1p)"/>
+<rect x="246" y="325" width="108" height="120" rx="6" fill="#F8EEE2"/>
+<text x="300" y="375.4" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#3A2A1C">saanjh</text>
+<text x="300" y="404.2" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" letter-spacing="2.5" fill="#8A6A4C">SAFFRON &amp;</text>
+<text x="300" y="423.4" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8" letter-spacing="2.5" fill="#8A6A4C">ROSE SERUM</text>
+<rect x="244" y="273" width="12" height="210" rx="6" fill="#fff" opacity=".3"/>
+</svg>

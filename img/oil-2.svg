@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<defs>
+<linearGradient id="o2bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EFD9C3"/><stop offset="1" stop-color="#DDBB95"/></linearGradient>
+<radialGradient id="o2sh" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3a2410" stop-opacity=".28"/><stop offset="1" stop-color="#3a2410" stop-opacity="0"/></radialGradient>
+<linearGradient id="o2hi" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="600" height="600" fill="url(#o2bg)"/>
+<defs><linearGradient id="o3g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6B300E"/><stop offset="0.35" stop-color="#B8641F"/><stop offset="0.62" stop-color="#9C4E17"/><stop offset="1" stop-color="#55260A"/></linearGradient><linearGradient id="o3c" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E1A17"/><stop offset="0.45" stop-color="#4A423B"/><stop offset="1" stop-color="#141110"/></linearGradient></defs>
+<ellipse cx="220" cy="510" rx="119.34" ry="20" fill="url(#o3sh)"/>
+<rect x="143.5" y="303" width="153" height="207" rx="25.2" fill="url(#o3g)"/>
+<path d="M161.5 303 Q161.5 271.5 193 265.2 L247 265.2 Q278.5 271.5 278.5 303 Z" fill="url(#o3g)"/>
+<rect x="194.8" y="243.6" width="50.4" height="25.2" rx="5.4" fill="#6B300E"/>
+<rect x="185.8" y="204" width="68.4" height="46.800000000000004" rx="9" fill="url(#o3c)"/>
+<path d="M198.4 204 L198.4 159 Q198.4 130.2 220 130.2 Q241.6 130.2 241.6 159 L241.6 204 Z" fill="#2A2420"/>
+<rect x="158.8" y="348" width="122.4" height="108" rx="6" fill="#F8EEE2"/>
+<text x="220" y="393.36" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#3A2A1C">saanjh</text>
+<text x="220" y="419.28" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="9" letter-spacing="2.5" fill="#8A6A4C">KUMKUMADI</text>
+<text x="220" y="436.56" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="9" letter-spacing="2.5" fill="#8A6A4C">GLOW OIL</text>
+<rect x="157.9" y="315.6" width="12.6" height="180" rx="6.3" fill="#fff" opacity=".2"/><defs><linearGradient id="o4b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7A1424"/><stop offset="0.5" stop-color="#A8243A"/><stop offset="1" stop-color="#6A101E"/></linearGradient><linearGradient id="o4l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8C1A2C"/><stop offset="0.5" stop-color="#B92F45"/><stop offset="1" stop-color="#7A1424"/></linearGradient><linearGradient id="o4r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8892C"/><stop offset="0.5" stop-color="#F3D58A"/><stop offset="1" stop-color="#A47A22"/></linearGradient></defs>
+<ellipse cx="420" cy="510" rx="102.3" ry="13.200000000000001" fill="url(#o4sh)"/>
+<rect x="337.5" y="405.5" width="165" height="104.50000000000001" rx="4.4" fill="url(#o4b)"/>
+<rect x="332" y="376.9" width="176" height="31.900000000000002" rx="4.4" fill="url(#o4l)"/>
+<rect x="411.2" y="376.9" width="17.6" height="133.10000000000002" fill="url(#o4r)"/>
+<rect x="332" y="389" width="176" height="8.8" fill="url(#o4r)" opacity=".9"/>
+<path d="M420 376.9 C381.5 334 354 372.5 420 376.9 Z" fill="url(#o4r)"/>
+<path d="M420 376.9 C458.5 334 486 372.5 420 376.9 Z" fill="url(#o4r)"/>
+<circle cx="420" cy="376.9" r="7.700000000000001" fill="#E7C46E"/>
+<text x="382.05" y="466.11" text-anchor="middle" font-family="Georgia, serif" font-size="14.3" fill="#F6E3B4" opacity=".9">saanjh</text>
+</svg>
